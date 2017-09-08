@@ -14,3 +14,4 @@ class ToyService{
 		});
 }
 }
+export default ToyService;
